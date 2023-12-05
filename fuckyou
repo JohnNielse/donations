@@ -1,0 +1,21 @@
+{
+   "defaultBadgeUrl":"https://nopbreak.ws/shared/badge.png",
+   "users":[
+      {
+         "userId":"519773759",
+         "userName":"tiny_eyes_with_water",
+         "displayName":"TINY_EYES_WITH_WATER",
+         "date":"null",
+         "type":null,
+         "badgeUrl":"https://upload.wikimedia.org/wikipedia/commons/7/74/UpdatePoFileIcon.gif"
+      },
+      {
+         "userId":"84148959",
+         "userName":"supermassove",
+         "displayName":"supermassove",
+         "date":"null",
+         "type":null,
+         "badgeUrl":""
+      },
+   ]
+}
